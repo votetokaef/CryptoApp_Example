@@ -1,4 +1,4 @@
-# Android Pet-Project for Stydying - Crypto App
+# Android Pet-Project for Studying - Crypto App
 
 Трекер цен на различные криптовалюты. Учебный проект.
 
